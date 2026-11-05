@@ -1,0 +1,11 @@
+title: Google Form Lead Alert (free Apps Script)
+description: Free Google Apps Script that emails you every time someone submits your Google Form. No Zapier, no monthly fees. Setup in 5 minutes.
+url: https://adarwash.github.io
+baseurl: /google-form-lead-alert
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Code.gs
+  - appsscript.json
